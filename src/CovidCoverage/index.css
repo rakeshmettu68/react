@@ -1,0 +1,51 @@
+.app-container{
+    background-color:#161625;
+    background-size:cover;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+   
+    
+    height:100vh;
+}
+.responsive-container{
+    display:flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    width:80%;
+    margin-top:20px;
+}
+.image-container{
+    display:flex;
+    align-items: center;
+}
+.plus-img{
+    width:50px;
+    margin-right:10px;
+}
+.co-win{
+    font-size:20px;
+    color:#64c2a6;
+    
+    text-align:center;
+    
+}
+.heading{
+    color:#cbd5e1;
+}
+.chart-container{
+    margin-top:20px;
+    width:100%;
+    background-color:#1c1c2b;
+    padding:10px;
+    height:470px;
+}
+.chart-heading{
+    color:#cbd5e1;
+}
+.failure-img{
+    width:350px;
+}
+
+
+
